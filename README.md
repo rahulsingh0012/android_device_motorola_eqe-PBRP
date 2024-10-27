@@ -1,8 +1,8 @@
 ![PBRP](https://pitchblackrecovery.com/wp-content/uploads/2020/06/New_Logo-7-e1594187397350.png "PBRP")
 Device configuration for Motorola Edge 50 Pro (eqe)
 =========================================
-# How to build
-Check OFRP official guide https://wiki.orangefox.tech/en/dev/building
+# How to Compile PBRP
+https://pitchblackrecovery.com/docs/how-to-compile/
 
 The Motorola Edge 50 Pro (codenamed _"eqe"_) is a flagship smartphone from Motorola mobility announced in 2024.
 
